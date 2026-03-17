@@ -1,4 +1,4 @@
-<h1 align="center">👋 Fala, eu sou o Anderson</h1>
+<h1 align="center">Anderson Bergamo</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=2EC4B6&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Node+%7C+C%23+%7C+TypeScript;Building+Scalable+Systems;Always+Learning+🚀" />
