@@ -34,21 +34,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2EC4B6?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-2EC4B6?style=for-the-badge&logo=mariadb&logoColor=white)
 
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=transparent&title_color=2EC4B6&icon_color=2EC4B6&text_color=2EC4B6&border_color=2EC4B6" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=transparent&title_color=2EC4B6&text_color=2EC4B6&border_color=2EC4B6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USER&theme=transparent&ring=2EC4B6&fire=2EC4B6&currStreakLabel=2EC4B6&sideLabels=2EC4B6&dates=2EC4B6&border=2EC4B6" />
-</p>
-
----
-
 ## 🚀 Projetos em destaque
 
 ### 💰 Kame (Sistema Financeiro)
